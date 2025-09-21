@@ -30,7 +30,7 @@ h1 {
   color: #48341f;
   text-align: center;
   font-size: 30px;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 
 ul {
@@ -46,7 +46,7 @@ li {
 a {
   font-size: 17px;
   color: #000;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   font-family: Verdana, sans-serif;
   text-decoration: none;
 }
