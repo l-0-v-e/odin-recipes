@@ -9,6 +9,7 @@ body {
   font-size: 15px;
   background-color: #694d36;
   text-align: justify;
+  line-height: 1.5;
 }
 
 .center {
@@ -60,4 +61,7 @@ li {
 .footer {
   margin-top: 20px;
   text-align: right;
+}
+
+p {
 }
