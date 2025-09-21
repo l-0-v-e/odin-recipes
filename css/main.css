@@ -6,7 +6,7 @@
 
 body {
   font-family: Georgia, serif;
-  background-color: #e6c3b8;
+  background-color: #694d36;
 }
 
 .center {
@@ -17,18 +17,18 @@ body {
 }
 
 .main {
-  padding: 25px;
-  height: 400px;
-  background-color: #fddccc;
+  padding: 40px;
+  height: 80%;
+  width: 400px;
+  background-color: #eee;
   border-radius: 10px;
 }
 
 h1 {
   padding: 15px;
-  background-color: #f55516;
-  border-radius: 10px;
-  margin-bottom: 20px;
-  color: #fff;
+  margin-bottom: 30px;
+  color: #48341f;
+  text-align: center;
   font-size: 30px;
 }
 
@@ -37,16 +37,15 @@ ul {
 }
 
 li {
-  padding: 5px;
-  padding-left: 10px;
-  background-color: #fdeee7;
-  border-bottom: 2px solid #f55516;
-  margin-bottom: 5px;
+  border: 0;
+  border-bottom: 2px solid #48341f;
+  margin-bottom: 15px;
 }
 
 a {
-  font-size: 15px;
+  font-size: 17px;
   color: #000;
+  letter-spacing: 4px;
   font-family: Verdana, sans-serif;
   text-decoration: none;
 }

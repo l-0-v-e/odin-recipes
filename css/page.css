@@ -7,7 +7,7 @@
 body {
   font-family: Verdana, sans-serif;
   font-size: 15px;
-  background-color: #e6c3b8;
+  background-color: #694d36;
 }
 
 .center {
@@ -16,11 +16,9 @@ body {
 }
 
 .main {
-  background-color: #fdeee7;
+  background-color: #eee;
   width: 800px;
   padding: 30px;
-  display: flex;
-  flex-direction: column;
 }
 
 .header {
@@ -32,22 +30,17 @@ h1,
 h2 {
   font-family: Georgia, serif;
   margin-bottom: 15px;
-  color: #f55516;
-  font-size: 27px;
+  color: #48341f;
+  text-align: center;
 }
 
 .bx {
-  background-color: #eee;
   padding: 20px;
-  margin-bottom: 15px;
-  border: 1px solid #f55516;
-  border-radius: 5px;
+  border-bottom: 1px dashed #48341f;
 }
 
 img {
   border-radius: 10px;
-  width: 320px;
-  height: auto;
 }
 
 ul,
@@ -60,6 +53,6 @@ li {
 }
 
 .footer {
-  margin-top: 10px;
+  margin-top: 25px;
   text-align: right;
 }
