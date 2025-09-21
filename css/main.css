@@ -22,11 +22,11 @@ body {
   width: 400px;
   background-color: #eee;
   border-radius: 10px;
+  border-left: 6px dotted #694d36;
 }
 
 h1 {
   padding: 15px;
-  margin-bottom: 30px;
   color: #48341f;
   text-align: center;
   font-size: 30px;
