@@ -22,16 +22,17 @@ body {
 }
 
 .header {
-  margin-bottom: 20px;
   text-align: center;
 }
 
 h1,
 h2 {
   font-family: Georgia, serif;
-  margin-bottom: 15px;
+  margin-top: 20px;
+  margin-bottom: 40px;
   color: #48341f;
   text-align: center;
+  letter-spacing: 4px;
 }
 
 .bx {
@@ -45,14 +46,14 @@ img {
 
 ul,
 ol {
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 li {
-  margin: 15px;
+  margin: 10px;
 }
 
 .footer {
-  margin-top: 25px;
+  margin-top: 20px;
   text-align: right;
 }
